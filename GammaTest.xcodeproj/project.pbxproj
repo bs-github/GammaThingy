@@ -382,8 +382,8 @@
 		B9E5363E1B38D90D0097BF90 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0710;
-				ORGANIZATIONNAME = "Thomas Finch";
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Birger Schmidt";
 				TargetAttributes = {
 					0024BBA51BDF6B18007A5FA1 = {
 						CreatedOnToolsVersion = 7.1;
@@ -396,7 +396,7 @@
 					};
 					B9E536451B38D90D0097BF90 = {
 						CreatedOnToolsVersion = 7.0;
-						DevelopmentTeam = HN76YBFY6K;
+						DevelopmentTeam = 8J6U3GAY86;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -640,7 +640,7 @@
 				INFOPLIST_FILE = GammaTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.ahammer.GammaTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.netgaroo.me.birger.GammaTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -662,7 +662,7 @@
 				INFOPLIST_FILE = GammaTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.ahammer.GammaTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.netgaroo.me.birger.GammaTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
